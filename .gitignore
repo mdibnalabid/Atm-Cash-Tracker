@@ -1,0 +1,131 @@
+# ─────────────────────────────────────────────
+# Flutter / Dart
+# ─────────────────────────────────────────────
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+**/doc/api/
+.fvm/
+
+# Symbolication / obfuscation
+app.*.symbols
+app.*.map.json
+
+# Coverage
+coverage/
+lcov.info
+
+# ─────────────────────────────────────────────
+# IDE / Editors
+# ─────────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# ─────────────────────────────────────────────
+# macOS / Windows / Linux OS files
+# ─────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─────────────────────────────────────────────
+# Android
+# ─────────────────────────────────────────────
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+android/key.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+*.jks
+*.keystore
+
+# Firebase Android config (contains project identifiers)
+android/app/google-services.json
+
+# ─────────────────────────────────────────────
+# iOS
+# ─────────────────────────────────────────────
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Podfile.lock
+**/*.mobileprovision
+**/*.certSigningRequest
+
+# Firebase iOS config
+ios/Runner/GoogleService-Info.plist
+
+# ─────────────────────────────────────────────
+# Web
+# ─────────────────────────────────────────────
+web/main.dart.js
+web/flutter_service_worker.js
+web/version.json
+lib/generated_plugin_registrant.dart
+
+# ─────────────────────────────────────────────
+# Firebase tooling
+# ─────────────────────────────────────────────
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+firestore-debug.log
+ui-debug.log
+database-debug.log
+pubsub-debug.log
+.firebaserc
+*-firebase-adminsdk-*.json
+serviceAccountKey.json
+
+# ─────────────────────────────────────────────
+# Environment / secrets
+# ─────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+secrets.dart
+lib/secrets.dart
+api_keys.dart
+
+# ─────────────────────────────────────────────
+# Misc
+# ─────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
+node_modules/
