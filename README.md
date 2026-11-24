@@ -189,7 +189,7 @@ web, native flow on Android).
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/md-ibna-labid/atm-cash-tracker.git
+git clone https://github.com/mdibnalabid/atm-cash-tracker.git
 cd atm-cash-tracker
 ```
 
@@ -310,7 +310,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 Final-year Computer Science & Engineering student
 Daffodil International University, Dhaka, Bangladesh
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-ibna-labid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdibnalabid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdibnalabid/)
 
 ---
